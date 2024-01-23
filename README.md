@@ -10,5 +10,4 @@ Acompanhe o site com conjunto de dados e relatórios: conjuntos de dados: http:/
 
 Site do Cenipa: https://www2.fab.mil.br/cenipa/index.php/o-cenipa
 
-O que você pode fazer com esses dados
-Você pode usar esses dados para descobrir quais estados e suas respectivas cidades possuem maior número de acidentes aéreos.
+O que você pode fazer com esses dados: você pode usar esses dados para descobrir quais estados e suas respectivas cidades possuem maior número de acidentes aéreos.
